@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "931fd788916b83ecfd202288165458c95e8b756c2028acff5e0724c412ba9e8b"
+            "sha256": "772a45178f455df152d3597bfa7b3fb199b375254e400b2fe873335e3637d3e3"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -55,10 +55,6 @@
             ],
             "markers": "python_version ~= '3.7'",
             "version": "==5.2.0"
-        },
-        "cb-django-articles": {
-            "editable": true,
-            "path": "./modules/django_articles"
         },
         "certifi": {
             "hashes": [
